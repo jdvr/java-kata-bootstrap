@@ -16,3 +16,4 @@ Java Kata Bootstrap
 - test: `./gradlew test`
 - run: `./gradlew run`
 
+This repository is configured as a template you can bootstrap your kata by creating a new repository or opening a codespace in github.
